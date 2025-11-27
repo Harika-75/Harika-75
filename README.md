@@ -8,16 +8,11 @@
 - 🌱 Currently learning **Spring Boot, DSA in Java, SQL & Web Development**  
 - 🎯 Goal: To become a skilled **Software Engineer** and contribute to impactful products
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
- ### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harika-75&show_icons=true&theme=react" height="160px"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harika-75&theme=react" height="160px"/>
-</p>
+### 📊 GitHub Stats
+![Harika's GitHub stats](https://github-readme-stats.vercel.app/api?username=harika-75&show_icons=true&theme=transparent)
