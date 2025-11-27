@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harika</h1>
 <h3 align="center">Aspiring Software Developer | Java Enthusiast |</h3>
 
-<h1 About Me >
+About Me
   🎓 Recent ECE Graduate
   💻 Passionate about **Software Development, Java Full-Stack **  
   🌱 Currently learning **Spring Boot, DSA in Java, SQL & Web Development**  
