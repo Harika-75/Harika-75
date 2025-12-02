@@ -14,8 +14,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 📊 GitHub Stats
-![Harika's GitHub stats](https://github-readme-stats-godkingjay.vercel.app/api?username=Harika-75&show_icons=true&theme=transparent)
 
 
 
