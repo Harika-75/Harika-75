@@ -15,5 +15,6 @@
 
 
 ### 📊 GitHub Stats
-![Harika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harika-75&show_icons=true&theme=transparent)
+![Harika's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Harika-75&show_icons=true&theme=transparent)
+
 
