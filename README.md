@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harika-75&theme=github_dark)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harika-75&theme=github_dark)
 
