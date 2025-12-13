@@ -16,11 +16,8 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harika-75&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harika-75&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harika-75&theme=github_dark&utcOffset=5.5)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harika-75&theme=github_dark)
 
 
 
