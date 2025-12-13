@@ -13,9 +13,13 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+
 ## 📊 GitHub Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harika-75&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harika-75&theme=github_dark)
+
 
 
 
